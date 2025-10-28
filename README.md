@@ -67,7 +67,7 @@ Customer-Churn-Prediction/
 ## 🚀 How to Run
 1. Clone this repo  
    ```bash
-   git clone https://github.com/SheldonDsouzaML/FUTURE_ML_02.git
+   git clone https://github.com/shaiksahil1088/FUTURE_ML_02.git
 2. Navigate into the project folder:
    cd FUTURE_ML_02/code
 
@@ -86,7 +86,7 @@ Customer-Churn-Prediction/
 
 - **Internship Program** : Future Interns – Machine Learning Internship
 
-- **Candidate ID (CIN)** : FIT/SEP25/ML2769
+- **Candidate ID (CIN)** : FIT/OCT25/ML3261
 
 
 - **Task** : Churn Prediction System (Task 2)
